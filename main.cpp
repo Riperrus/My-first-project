@@ -7,5 +7,6 @@ int main()
 	cout << "Robot... bip,bip";
 	//first_commit
 	//ветка разработчика
+	//djnr b dc`
 	return 0;
 }
